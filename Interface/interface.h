@@ -7,5 +7,6 @@
 
 Node* readInput(int *N);
 void printTask1 (FILE *file, Node *trie, int flag);
+void printTask2 (FILE *file, Node *trie, int flag);
 
 #endif
